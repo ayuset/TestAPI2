@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ListUser</name>
+   <tag>Validate_ListUser</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c0ac967-8749-41de-99a8-407db423d41a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DetailUser_NotFound</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b60c5fa-2d23-4bf7-9bb6-49036291c2df</testCaseGuid>
+</TestCaseEntity>
